@@ -2,7 +2,7 @@
 
 This is my first solo React Project - A simple Password generator.
 
-You can try the project here: https://0x69ED75.github.io/Password_Generator/
+You can try the project here: https://0x978.github.io/Password_Generator/
 
 I attempted this without following any guide, so It's likely to be imperfect
 
